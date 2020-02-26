@@ -1,0 +1,1 @@
+# Influence-of-the-amplitude-of-the-Receptive-Field-on-Skin-Detection-and-Segmentation
